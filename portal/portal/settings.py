@@ -92,7 +92,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'portal',    # Replace with your MySQL database name
         'USER': 'root',   # Replace with your MySQL username
-        'PASSWORD': 'Hellobrother@123',  # Replace with your MySQL password
+        'PASSWORD': 't@bish',  # Replace with your MySQL password
         'HOST': 'localhost',             # Replace with your MySQL host address
         'PORT': '3306',                  # Replace with your MySQL port (default is 3306)
     }
